@@ -1,0 +1,52 @@
+{
+    "name": "PAW",
+    "description": "<p>Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful. Either you are an API maker or consumer, Paw helps you build HTTP requests, inspect the server's response and even generate client code.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/paw-http-client.png",
+    "tags": [
+        "clients",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paw\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PAW",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/paw-http-client.png",
+            "humanURL": "http:\/\/luckymarmot.com\/paw",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paw-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/luckymarmot.com\/paw"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.luckymarmot.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.luckymarmot.com\/rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/luckymarmot"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LuckyMarmot"
+        }
+    ]
+}
