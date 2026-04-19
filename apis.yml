@@ -14,7 +14,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/paw/refs/heads/main/apis.yml
 created: '2026-03-16'
-modified: '2026-03-27'
+modified: '2026-04-19'
 specificationVersion: '0.19'
 apis:
   - aid: paw:paw
@@ -32,13 +32,17 @@ apis:
     properties:
       - type: Documentation
         url: https://paw.cloud/docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://paw.cloud/docs/getting-started
 common:
-  - type: Website
-    url: https://paw.cloud
   - type: Documentation
     url: https://paw.cloud/docs
+  - type: Features
+    url: https://paw.cloud
+  - type: UseCases
+    url: https://paw.cloud
+  - type: Integrations
+    url: https://paw.cloud
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
