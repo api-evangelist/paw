@@ -35,6 +35,8 @@ apis:
       - type: GettingStarted
         url: https://paw.cloud/docs/getting-started
 common:
+  - type: GitHubOrganization
+    url: https://github.com/luckymarmot
   - type: Documentation
     url: https://paw.cloud/docs
   - type: Features
