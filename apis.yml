@@ -35,6 +35,8 @@ apis:
       - type: GettingStarted
         url: https://paw.cloud/docs/getting-started
 common:
+  - type: DomainSecurity
+    url: security/paw-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/luckymarmot
   - type: Documentation
