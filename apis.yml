@@ -58,6 +58,8 @@ apis:
       - type: GettingStarted
         url: https://paw.cloud/docs/getting-started
 common:
+  - type: Website
+    url: https://www.paw.cloud/
   - type: DomainSecurity
     url: security/paw-domain-security.yml
   - type: GitHubOrganization
