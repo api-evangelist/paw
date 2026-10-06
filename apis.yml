@@ -38,7 +38,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/paw/refs/heads/main/apis.yml
 created: '2026-03-16'
-modified: '2026-04-19'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: paw:paw
@@ -59,6 +59,8 @@ apis:
       - type: GettingStarted
         url: https://paw.cloud/docs/getting-started
 common:
+  - url: https://paw.cloud/updates
+    type: Blog
   - type: Website
     url: https://www.paw.cloud/
   - type: DomainSecurity
