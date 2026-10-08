@@ -59,6 +59,12 @@ apis:
       - type: GettingStarted
         url: https://paw.cloud/docs/getting-started
 common:
+  - type: Plans
+    url: plans/paw-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/paw-rate-limits.yml
+  - type: FinOps
+    url: finops/paw-finops.yml
   - url: https://paw.cloud/updates
     type: Blog
   - type: Website
