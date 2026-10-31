@@ -1,4 +1,4 @@
-# Paw (paw)
+# Paw
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,44 +66,102 @@
 
 Paw (now RapidAPI for Mac) is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It provides a native macOS API testing experience with collaboration features.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/paw/refs/heads/main/apis.yml)
+**Areas:** API Testing · Clients · Developer Tools · HTTP Client · macOS
 
-## Scope
+## Paw on APIs.io
 
-- **Type:** Index 
+Everything profiled for Paw is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/paw/](https://apis.io/providers/paw/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - API Testing, Clients, HTTP Client, macOS
+- [Paw](https://apis.io/apis/paw/paw/) — Paw (now RapidAPI for Mac) is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It provides a native macOS API…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-04-19 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Paw
-Paw (now RapidAPI for Mac) is a full-featured HTTP client that lets you test and describe the APIs you build or consume.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://paw.cloud](https://paw.cloud)
+- [Paw Domain Security](https://apis.io/security/paw/paw-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - API Testing, Clients, HTTP Client, macOS
+Published plans, tiers and prices.
 
-#### Properties
+- [Paw Plans Pricing](https://apis.io/plans/paw/paw-plans-pricing/)
 
+#### Rate limits (1)
+
+Published request limits.
+
+- [Paw Rate Limits](https://apis.io/rate-limits/paw/paw-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Paw Finops](https://apis.io/finops/paw/paw-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.paw.cloud/)
 - [Documentation](https://paw.cloud/docs)
-- [GettingStarted](https://paw.cloud/docs/getting-started)
+- [Blog](https://paw.cloud/updates)
+- [GitHub](https://github.com/luckymarmot)
 
-## Common Properties
+## API Evangelist rating
 
-- [Documentation](https://paw.cloud/docs)
-- [Features](https://paw.cloud)
-- [UseCases](https://paw.cloud)
-- [Integrations](https://paw.cloud)
+**Kin Score 8.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
 
-**FN:** Kin Lane, **Email:** kin@apievangelist.com
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/paw/](https://apis.io/providers/paw/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Paw: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/paw/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
